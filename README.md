@@ -509,6 +509,3 @@ ubuntu:18.04                     image: ubuntu:18.04         FROM ubuntu:18.04
 
 sleep 1000                       command: sleep 1000         CMD sleep 1000
 ~~~
-
-**P.S.**
-https://github.com/eon01/DockerCheatSheet
